@@ -46,13 +46,4 @@
   +256 789 519 520
 </p>
 
-<p>
-  <img align="left" width="22px" style="margin-right:8px; filter:invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  mulumbijeremiah@gmail.com
-</p>
-
-<p>
-  <img align="left" width="22px" style="margin-right:8px; filter:invert(1);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-  +256 789 519 520
-</p>
 
