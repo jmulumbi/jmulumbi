@@ -1,28 +1,40 @@
-# Hi, I'm Jeremiah Mulumbi 👋
-**Computer Science Graduate · Kampala, Uganda**
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
----
-## Who I am
-IT & cybersecurity professional with hands-on experience in IT support, systems analysis, and SOC operations. I hold a B.A. in Computer Science from Skidmore College and I enjoy solving operational problems and building secure, well-documented systems.
+<h2>👨‍💻 Software Development Projects:</h2>
 
----
-## What I'm working on
-### 🔧 ServiceNow
-- Building skills toward **ServiceNow Certified System Administrator (CSA)** — learning platform configuration, user management, and ITSM workflows
-- Working toward **ServiceNow Certified Application Developer (CAD)** — exploring app building, Flow Designer, and scripting on the Now Platform
-- Currently interning as a **ServiceNow Platform Trainee** *(Apr 2026 – Present)*
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-### 🛡️ Cybersecurity Projects
-- **Azure Honeypot & SOC Lab** — deployed a publicly exposed VM on Microsoft Azure, captured 25,000+ attack attempts, monitored with Microsoft Sentinel and KQL, and mapped findings to MITRE ATT&CK across 35+ countries
-- **Vulnerability Scanning Lab** — practising network and endpoint scanning using tools like Nmap and Nessus, identifying misconfigurations, and documenting findings in structured remediation reports
-- **Phishing Simulation Project** — analysing phishing campaigns, identifying indicators of compromise, and developing targeted security awareness training materials (based on Mastercard Forage simulation)
-## Tools & Technologies
-`Microsoft Sentinel` `Microsoft Azure` `Wazuh SIEM` `Active Directory` `KQL` `MITRE ATT&CK`  
-`Python` `SQL` `JavaScript` `Kali Linux` `Git` `Microsoft 365` `Google Suite`
+<h2>📺 Popular YouTube Videos</h2>
 
----
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-## How to reach me
-📧 mulumbijeremiah@gmail.com  
-💼 [linkedin.com/in/jeremiah-mulumbi-642501251](https://www.linkedin.com/in/jeremiah-mulumbi-642501251)
-📍 Kampala, Uganda
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+
