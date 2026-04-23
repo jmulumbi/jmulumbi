@@ -1,5 +1,5 @@
-<h1>Hi, I'm Jeremiah! <br/><a href="https://github.com/jmulumbi">Programmer</a>, <a href="linkedin.com/in/jeremiah-mulumbi-642501251">IT/Cybersecurity Professional</a>,
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1>Hi, I'm Jeremiah! <br/><a href="https://github.com/jmulumbi">Programmer</a>, and <a href="linkedin.com/in/jeremiah-mulumbi-642501251">IT/Cybersecurity Professional</a>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
