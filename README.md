@@ -2,9 +2,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>ServiceNow Instance Projects</b>
-  - [ServiceNow Fundamentals](https://github.com/jmulumbi/Javascript.js))
-  - [Catalog Builder](https://github.com/jmulumbi/Javascript.js))
-  - [Flow Fundamentals](https://github.com/jmulumbi/Javascript.js))
+  - [ServiceNow Fundamentals](https://github.com/jmulumbi/Javascript.js)
+  - [Catalog Builder](https://github.com/jmulumbi/Javascript.js)
+  - [Flow Fundamentals](https://github.com/jmulumbi/Javascript.js)
 - <b>Cloud SOC</b>
   - [Cloud SOC SetUp](https://github.com/jmulumbi/Cloud-SOC-Detection-Lab)
 - <b>Data Structures and Algorithms Practice</b>
