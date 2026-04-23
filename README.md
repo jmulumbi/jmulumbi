@@ -24,5 +24,5 @@ IT & cybersecurity professional with hands-on experience in IT support, systems 
 
 ## How to reach me
 📧 mulumbijeremiah@gmail.com  
-💼 [linkedin.com/in/jmulumbi]: linkedin.com/in/jeremiah-mulumbi-642501251
+💼 [linkedin.com/in/jeremiah-mulumbi-642501251](https://www.linkedin.com/in/jeremiah-mulumbi-642501251)
 📍 Kampala, Uganda
