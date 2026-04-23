@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Jeremiah Mulumbi 👋
 **Computer Science Graduate · Kampala, Uganda**
 
