@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jeremiah! <br/><a href="https://github.com/jmulumbi">Programmer</a>, and <a href="linkedin.com/in/jeremiah-mulumbi-642501251">IT/Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Structures and Algorithms Practice (JavaScript)</b>
+  - [Praciting DS & Algos in Python](https://github.com/jmulumbi/Javascript.js))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
