@@ -9,7 +9,7 @@
   - [Praciting DS & Algos in JavaScript](https://github.com/jmulumbi/Javascript.js)
   - [Praciting DS & Algos in Python](https://github.com/jmulumbi/Javascript.js)
 - <b>Python</b>
-  - [Security-Focused CLI Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Security-Focused CLI Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
