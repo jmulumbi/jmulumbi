@@ -1,6 +1,5 @@
 <h1>Hi, I'm Jeremiah! <br/><a href="https://github.com/jmulumbi">Programmer</a>, and <a href="linkedin.com/in/jeremiah-mulumbi-642501251">IT/Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
 - <b>ServiceNow Instance Projects</b>
   - [ServiceNow Fundamentals](https://github.com/jmulumbi/Javascript.js)
   - [Catalog Builder](https://github.com/jmulumbi/Javascript.js)
@@ -12,7 +11,11 @@
   - [Praciting DS & Algos in Python](https://github.com/jmulumbi/Javascript.js)
 - <b>Python</b>
   - [Security-Focused CLI Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+  - <b>ServiceNow Certified System Administrator (CSA) - Expected </b>
+  - <b>ServiceNow Certified Application Developer (CAD) - Expected </b>
+  - <b>CompTIA Security + - Expected </b>
+  - <b>IBM Cybersecurity Certificate</b>
 
 <h2>🤳 Connect with me</h2>
 
