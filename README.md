@@ -18,7 +18,6 @@ IT & cybersecurity professional with hands-on experience in IT support, systems 
 - **Azure Honeypot & SOC Lab** — deployed a publicly exposed VM on Microsoft Azure, captured 25,000+ attack attempts, monitored with Microsoft Sentinel and KQL, and mapped findings to MITRE ATT&CK across 35+ countries
 - **Vulnerability Scanning Lab** — practising network and endpoint scanning using tools like Nmap and Nessus, identifying misconfigurations, and documenting findings in structured remediation reports
 - **Phishing Simulation Project** — analysing phishing campaigns, identifying indicators of compromise, and developing targeted security awareness training materials (based on Mastercard Forage simulation)
-- 
 ## Tools & Technologies
 `Microsoft Sentinel` `Microsoft Azure` `Wazuh SIEM` `Active Directory` `KQL` `MITRE ATT&CK`  
 `Python` `SQL` `JavaScript` `Kali Linux` `Git` `Microsoft 365` `Google Suite`
