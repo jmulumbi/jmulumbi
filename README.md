@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jeremiah! <br/><a href="https://github.com/jmulumbi">Programmer</a>, and <a href="linkedin.com/in/jeremiah-mulumbi-642501251">IT/Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (JavaScript)</b>
+- <b>ServiceNow Instance Projects</b>
   - [Praciting DS & Algos in JavaScript](https://github.com/jmulumbi/Javascript.js))
 - <b>Cloud SOC</b>
   - [Cloud SOC SetUp](https://github.com/jmulumbi/Cloud-SOC-Detection-Lab)
