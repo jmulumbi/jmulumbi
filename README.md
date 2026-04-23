@@ -4,7 +4,7 @@
 - <b>Data Structures and Algorithms Practice (JavaScript)</b>
   - [Praciting DS & Algos in Python](https://github.com/jmulumbi/Javascript.js))
 - <b>Cloud SOC</b>
-  - [Cloud SOC SetUp](https://github.com/jmulumbi/Cloud-SOC-Detection-Lab)))
+  - [Cloud SOC SetUp](https://github.com/jmulumbi/Cloud-SOC-Detection-Lab)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
