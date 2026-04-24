@@ -27,6 +27,8 @@
 - <b>ServiceNow Certified Application Developer (CAD)</b> — Expected
 - <b>CompTIA Security+</b> — Expected
 - <b>IBM Cybersecurity Certificate</b>
+- <b>Career Essentials in Cybersecurity — Microsoft & LinkedIn Learning</b>
+
 
 <h2>🤳 Connect with me</h2>
 
