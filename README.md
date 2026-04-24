@@ -5,7 +5,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>ServiceNow Instance Projects</b>
+- <b>[ServiceNow Instance Projects](https://github.com/jmulumbi/ServiceNow-Instance-Projects/tree/main)</b>
   - [ServiceNow Fundamentals](https://github.com/jmulumbi)
   - [Catalog Builder](https://github.com/jmulumbi)
   - [Flow Fundamentals](https://github.com/jmulumbi)
