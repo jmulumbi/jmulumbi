@@ -19,7 +19,7 @@
   - [DS & Algos in Python](https://github.com/jmulumbi)
 
 - <b>Python</b>
-  - [Security-Focused CLI Application](https://github.com/jmulumbi)
+  - [Security-Focused CLI Application]([https://github.com/jmulumbi](https://github.com/jmulumbi/Python-Security-Focused-CLI-Tool-))
 
 <h2>🏆 Certifications:</h2>
 
