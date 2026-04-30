@@ -10,6 +10,7 @@
   - [ServiceNow Fundamentals](https://github.com/jmulumbi)
   - [Catalog Builder](https://github.com/jmulumbi)
   - [Flow Fundamentals](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Flow%20Designer.md)
+  - [UI Builder](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Flow%20Designer.md)
 
 - <b>Cloud SOC</b>
   - [Cloud SOC Setup](https://github.com/jmulumbi/Cloud-SOC-Detection-Lab)
