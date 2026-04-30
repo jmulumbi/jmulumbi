@@ -7,7 +7,7 @@
 
 - <b>ServiceNow Instance Projects</b>
   - [Overview](https://github.com/jmulumbi/ServiceNow-Instance-Projects)
-  - [ServiceNow Fundamentals]([https://github.com/jmulumbi](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/ServiceNow%20Fundamentals/Overview.md))
+  - [ServiceNow Fundamentals](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/ServiceNow%20Fundamentals/Overview.md)
   - [Catalog Builder](https://github.com/jmulumbi)
   - [Flow Fundamentals](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Flow%20Designer.md)
   - [UI Builder](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Flow%20Designer.md)
