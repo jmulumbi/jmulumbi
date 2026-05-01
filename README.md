@@ -10,6 +10,7 @@
   - [ServiceNow Fundamentals](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/ServiceNow%20Fundamentals/Overview.md)
   - [Catalog Builder](https://github.com/jmulumbi)
   - [Flow Fundamentals](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Flow%20Designer.md)
+  - [JavaScript on the NowPlatform]()
   - [UI Builder](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Flow%20Designer.md)
 
 - <b>Cloud SOC</b>
