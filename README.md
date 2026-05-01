@@ -11,7 +11,7 @@
   - [Catalog Builder](https://github.com/jmulumbi)
   - [Flow Fundamentals](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Flow%20Designer.md)
   - [JavaScript on the NowPlatform](https://github.com/jmulumbi/ServiceNow-Instance-Projects/tree/main/JavaScript%20on%20the%20NowPlatform/sn-learn-javascript)
-  - [UI Builder](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Flow%20Designer.md)
+  - [UI Builder](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/UI%20Builder/Overview.md)
 
 - <b>Cloud SOC</b>
   - [Cloud SOC Setup](https://github.com/jmulumbi/Cloud-SOC-Detection-Lab)
