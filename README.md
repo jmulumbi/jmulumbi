@@ -7,7 +7,7 @@
 
 - <b>ServiceNow Instance Projects</b>
   - [Overview](https://github.com/jmulumbi/ServiceNow-Instance-Projects)
-  - [Role Drift Detector](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Role%20Drift%20Detector%20/Overview.md)
+  - [Role Drift Detector[Personal Project]](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Role%20Drift%20Detector%20/Overview.md)
   - [ServiceNow Fundamentals](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/ServiceNow%20Fundamentals/Overview.md)
   - [Catalog Builder](https://github.com/jmulumbi)
   - [Flow Fundamentals](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Flow%20Designer.md)
