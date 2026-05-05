@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremiah! <br/>
+<h1>Hi, I'm Jeremiah Mulumbi! <br/>
   <a href="https://github.com/jmulumbi">Programmer</a> and 
   <a href="https://linkedin.com/in/jeremiah-mulumbi-642501251">IT/Cybersecurity Professional</a>
 </h1>
