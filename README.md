@@ -18,7 +18,7 @@ Whether it's catching unauthorized role drift before auditors do, investigating 
 <h2>👨‍💻 Projects:</h2>
 
 - <b>ServiceNow Instance Projects</b>
-  - [Overview](https://github.com/jmulumbi/ServiceNow-Instance-Projects)
+  - [Overview](https://github.com/jmulumbi/ServiceNow-Instance-Projects) - Shows a summary and gives access to all the projects I completed in ServiceNow
   - [Role Drift Detector [Personal Project]](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/Role%20Drift%20Detector%20/Overview.md) — A ServiceNow scoped app that automatically detects unauthorized role accumulation in enterprise systems and flags control deviations for immediate remediation — solving one of the most common IT security audit findings.
   - [ServiceNow Fundamentals](https://github.com/jmulumbi/ServiceNow-Instance-Projects/blob/main/ServiceNow%20Fundamentals/Overview.md) — Core ServiceNow platform concepts covering tables, queries, and configuration — foundational knowledge for building enterprise IT governance solutions.
   - [Catalog Builder](https://github.com/jmulumbi) — A ServiceNow project demonstrating how to design and build user-facing service catalogs that streamline IT service delivery and maintain request audit trails.
