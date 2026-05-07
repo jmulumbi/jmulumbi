@@ -35,6 +35,7 @@ Whether it's catching unauthorized role drift before auditors do, investigating 
 
 - <b>Python</b>
   - [Security-Focused CLI Application](https://github.com/jmulumbi/Python-Security-Focused-CLI-Tool-) — A Python credential management system built with industry-standard encryption (Fernet/AES-128) and secure hashing (bcrypt) to demonstrate applied cryptography and secure software design principles.
+  - [Dashboard for Inventory Efficiency](https://github.com/jmulumbi/Python-Security-Focused-CLI-Tool-)
 
 <h2>🏆 Certifications:</h2>
 
